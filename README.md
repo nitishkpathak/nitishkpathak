@@ -1,76 +1,73 @@
-# Hi, I'm Nitish Pathak 👋
+# 👋 Hi, I'm Nitish Pathak
 
-### Java Backend Developer | MCA Graduate
+### 💻 Java Backend Developer | MCA Graduate
 
-I am an MCA graduate and aspiring Java Backend Developer passionate about building practical software applications and solving programming problems.
+I am an MCA graduate and aspiring Java Backend Developer who enjoys building practical software applications and solving real-world programming problems.
 
-I enjoy working with Java, backend development, databases, REST APIs, and Data Structures & Algorithms. I am currently strengthening my skills in Spring Boot and backend development.
-
----
-
-## 🛠️ Skills
-
-- **Programming:** Java, JavaScript
-- **Backend:** Node.js, REST APIs
-- **Database:** MySQL, MongoDB, DBMS
-- **Core Concepts:** OOP, Data Structures & Algorithms
-- **Tools:** Git, GitHub
+I am particularly interested in **Java, Spring Boot, REST APIs, databases, and backend development**.
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 💼 JobHub
-A full-stack job portal application designed to connect job seekers and recruiters.
-
-**Tech:** JavaScript, Node.js, MongoDB
-
-### 📚 PrepTrack
-A platform focused on interview preparation and coding practice.
-
-**Tech:** JavaScript
-
-### 🎓 LearnX
-A responsive and user-friendly educational platform for exploring courses and categories.
-
-**Tech:** JavaScript
-
-### 🌐 Nitish Portfolio
-My personal portfolio website showcasing my skills, projects and development journey.
-
-**Tech:** HTML, CSS
+- 🎓 MCA Graduate
+- 💻 Focused on **Java Backend Development**
+- 🌱 Currently improving my skills in **Spring Boot & Backend Development**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🗄️ Interested in **Database Design & REST API Development**
+- 🚀 Building real-world projects to strengthen my development skills
 
 ---
 
-## 📈 Currently Learning
+## 🛠️ Technical Skills
 
-- Java Backend Development
+### 💻 Programming
+- Java
+- JavaScript
+
+### ⚙️ Backend Development
 - Spring Boot
-- Hibernate / JPA
-- REST API Development
-- SQL & Database Design
+- Spring Security
+- REST APIs
+- Node.js
+- JWT Authentication
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+- DBMS
+- SQL
+
+### 🧠 Core Concepts
+- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
+- API Development
+- Authentication & Authorization
+
+### 🔧 Tools
+- Git
+- GitHub
+- Maven
+- VS Code
+- IntelliJ IDEA
 
 ---
 
-## 💻 Coding & Problem Solving
+## 🌱 Currently Learning
 
-I regularly practice Data Structures & Algorithms and work on programming problems to improve my problem-solving skills.
+I am currently focusing on strengthening my backend development skills:
 
----
-
-## 🎓 Education
-
-**Master of Computer Applications (MCA)**
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: npathak.sp@gmail.com
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nitishkpathak/)
-- 🌐 Portfolio: [Portfolio](https://nitishkpathak.github.io/Nitish-Portfolio/)
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
+```text
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+Spring Security + JWT
+  ↓
+Hibernate / JPA
+  ↓
+MySQL & Database Design
+  ↓
+Backend System Design
