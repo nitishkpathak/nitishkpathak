@@ -23,18 +23,18 @@
 
 ## 👨‍💻 About Me
 
-I'm an **MCA graduate** interested in building practical software applications and learning how real-world backend systems are designed.
+I'm an **MCA graduate and Java Backend Developer** who enjoys building practical software applications and learning how real-world systems work.
 
 I mainly work with **Java, Spring Boot, Spring Security, REST APIs, React.js and SQL**, while also exploring full-stack development and modern backend technologies.
 
-- ☕ Interested in **Java Backend Development**
+- ☕ Focused on **Java Backend Development**
 - 🌱 Currently learning **Spring Boot & Backend Development**
 - 🔐 Working with **Spring Security & JWT**
-- 🗄️ Enjoy working with **databases and API development**
-- ⚛️ Comfortable building interfaces with **React.js**
-- 🧩 Like building projects to learn new technologies
+- 🗄️ Interested in **Database Design & Backend Systems**
+- ⚛️ Building frontend applications with **React.js**
+- 🚀 Building real-world full-stack projects
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🚀 Interested in building reliable and scalable applications
+- 💡 Interested in writing clean and maintainable code
 
 ---
 
@@ -43,7 +43,11 @@ I mainly work with **Java, Spring Boot, Spring Security, REST APIs, React.js and
 ### ☕ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
@@ -53,10 +57,10 @@ I mainly work with **Java, Spring Boot, Spring Security, REST APIs, React.js and
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend
@@ -71,47 +75,28 @@ I mainly work with **Java, Spring Boot, Spring Security, REST APIs, React.js and
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,maven,docker,postman,vscode" />
 </p>
 
----
-
-# 🚀 What I Build
-
-I enjoy building applications that combine:
-
-```text
-Frontend
-   ↓
-React.js
-   ↓
-REST APIs
-   ↓
-Java / Spring Boot
-   ↓
-Spring Security
-   ↓
-JPA / Hibernate
-   ↓
-MySQL / MongoDB
-```
-
-My main interest is **backend development**, but I also enjoy building complete full-stack applications.
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
 ## 📦 StockFlow — Inventory Management System
 
 **Java · Spring Boot · Spring Security · React.js · MySQL · JPA/Hibernate · JWT**
 
-A full-stack inventory management application for managing products, categories, suppliers, users and stock operations.
+A full-stack inventory management system designed to manage products, categories, suppliers, users and stock operations.
 
-### Highlights
+### ✨ Highlights
 
 - 🔐 JWT Authentication
 - 👥 Role-Based Access Control
@@ -124,51 +109,73 @@ A full-stack inventory management application for managing products, categories,
 - 📊 Dashboard & Reports
 - 🔎 Search & Filtering
 - 📉 Low Stock Monitoring
+- ☁️ Cloud Deployment
 
-<p>
+<p align="left">
   <a href="https://github.com/nitishkpathak/StockFlow">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://stock-flow-roan-alpha.vercel.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💼 JobHub — Full-Stack Job Portal
+## 💼 JobHub — Full-Stack Job Portal & AI Candidate Matcher
 
 **Java · Spring Boot · Spring Security · React.js · MySQL · JWT · BCrypt**
 
-A full-stack recruitment platform with secure authentication and automated candidate-job matching.
+A full-stack recruitment platform with secure authentication and an automated candidate-job matching system.
 
-### Highlights
+### ✨ Highlights
 
-- 🔐 Secure JWT Authentication
+- 🔐 JWT Authentication
 - 🔒 BCrypt Password Encryption
 - 🤖 Candidate-Job Matching
 - 📊 Skill Overlap Analysis
 - 🔎 Multi-Criteria Search
 - 📄 Application Tracking
 - 👥 Candidate & Recruiter Workflows
-- 🧪 REST API Testing
+- 🧪 REST API Development & Testing
+
+<p align="left">
+  <a href="https://github.com/nitishkpathak/jobhub">
+    <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://jobhub-livid.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 PrepTrack — DSA Prep Tracker
+## 📊 PrepTrack — DSA Prep Tracker & Progress Visualizer
 
 **MongoDB · Express.js · React.js · Node.js · Tailwind CSS · Recharts · JWT**
 
-A web application for tracking coding preparation and visualizing progress through an interactive dashboard.
+A full-stack application for tracking DSA preparation, coding progress and performance through an interactive dashboard.
 
-### Highlights
+### ✨ Highlights
 
-- 📚 Problem Tracking
+- 📚 DSA Problem Tracking
 - 📈 Progress Visualization
-- 📊 Interactive Charts
+- 📊 Interactive Analytics
 - 🔐 JWT Authentication
-- ⚡ Automated Problem Metadata
+- ⭐ Favorites
+- 🔥 Streak Tracking
+- 📝 Question Management
+- ⚡ Automated Question Metadata
 - 🎨 Responsive UI
+
+<p align="left">
+  <a href="https://github.com/nitishkpathak/PrepTrack">
+    <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://prep-track-blue.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -196,7 +203,7 @@ System Design
 
 # 🧠 Problem Solving
 
-I regularly practice **Data Structures & Algorithms** to improve my problem-solving and programming fundamentals.
+I practice **Data Structures & Algorithms** to improve my programming fundamentals and problem-solving skills.
 
 ### Topics I Practice
 
@@ -205,28 +212,31 @@ I regularly practice **Data Structures & Algorithms** to improve my problem-solv
 - Hashing
 - Two Pointers
 - Binary Search
-- Recursion
 - Linked List
 - Stack & Queue
 - Trees
+- Recursion
 - Dynamic Programming
 
-🔗 [My LeetCode Profile](https://leetcode.com/u/nitish_codes)
+🔗 **[My LeetCode Profile](https://leetcode.com/u/nitish_codes)**
 
 ---
 
-# 📚 Core Concepts
+# 💡 What I Like Building
 
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Database Management
-- REST API Design
-- Authentication & Authorization
-- JPA & Hibernate
-- SQL & Database Design
-- Debugging
-- Testing
-- Git & Version Control
+```text
+🔐 Secure Applications
+        ↓
+🌐 REST APIs
+        ↓
+☕ Java + Spring Boot
+        ↓
+🗄️ Database-driven Systems
+        ↓
+⚛️ React Frontends
+        ↓
+🚀 Full-Stack Applications
+```
 
 ---
 
@@ -242,12 +252,12 @@ Worked on frontend development using JavaScript and React, building reusable UI 
 
 # 🎓 Education
 
-### 🎓 Master of Computer Applications
+### 🎓 Master of Computer Applications — MCA
 
 **Lovely Professional University**  
 2024 – 2026
 
-### 🎓 Bachelor of Computer Applications
+### 🎓 Bachelor of Computer Applications — BCA
 
 **Gopal Narayan Singh University**  
 2021 – 2024
@@ -274,20 +284,12 @@ Worked on frontend development using JavaScript and React, building reusable UI 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nitishkpathak&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=nitishkpathak&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkpathak&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 📫 Let's Connect
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/nitishkpathak">
@@ -306,9 +308,9 @@ Worked on frontend development using JavaScript and React, building reusable UI 
 
 ---
 
-<h3 align="center">
-  🚀 Learning • Building • Improving
-</h3>
+<p align="center">
+  💻 <b>Build • Learn • Improve • Repeat 🚀</b>
+</p>
 
 <p align="center">
   <i>Always curious. Always building.</i>
