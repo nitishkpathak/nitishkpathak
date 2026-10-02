@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nitish Pathak</h1>
 
 <h3 align="center">
-  💻 Java Backend Developer | Full-Stack Developer | MCA Graduate
+  💻 Software Developer | Software Engineer | Java Backend Developer
 </h3>
 
 <p align="center">
@@ -23,18 +23,18 @@
 
 ## 👨‍💻 About Me
 
-I'm an **MCA graduate and Java Backend Developer** who enjoys building practical software applications and learning how real-world systems work.
+I'm an **MCA graduate and software developer** interested in building practical, reliable and user-focused software applications.
 
-I mainly work with **Java, Spring Boot, Spring Security, REST APIs, React.js and SQL**, while also exploring full-stack development and modern backend technologies.
+I work mainly with **Java, Spring Boot, Spring Security, REST APIs, React.js, JavaScript and SQL**, and enjoy building full-stack applications that solve real-world problems.
 
-- ☕ Focused on **Java Backend Development**
-- 🌱 Currently learning **Spring Boot & Backend Development**
-- 🔐 Working with **Spring Security & JWT**
+- ☕ Focused on **Java & Backend Development**
+- 🌐 Building **RESTful APIs and full-stack applications**
+- 🔐 Working with **Spring Security & JWT Authentication**
 - 🗄️ Interested in **Database Design & Backend Systems**
-- ⚛️ Building frontend applications with **React.js**
-- 🚀 Building real-world full-stack projects
+- ⚛️ Building responsive interfaces with **React.js**
+- 🚀 Developing and deploying real-world projects
 - 🧠 Practicing **Data Structures & Algorithms**
-- 💡 Interested in writing clean and maintainable code
+- 💡 Interested in writing clean, maintainable and scalable software
 
 ---
 
@@ -122,34 +122,6 @@ A full-stack inventory management system designed to manage products, categories
 
 ---
 
-## 💼 JobHub — Full-Stack Job Portal & AI Candidate Matcher
-
-**Java · Spring Boot · Spring Security · React.js · MySQL · JWT · BCrypt**
-
-A full-stack recruitment platform with secure authentication and an automated candidate-job matching system.
-
-### ✨ Highlights
-
-- 🔐 JWT Authentication
-- 🔒 BCrypt Password Encryption
-- 🤖 Candidate-Job Matching
-- 📊 Skill Overlap Analysis
-- 🔎 Multi-Criteria Search
-- 📄 Application Tracking
-- 👥 Candidate & Recruiter Workflows
-- 🧪 REST API Development & Testing
-
-<p align="left">
-  <a href="https://github.com/nitishkpathak/jobhub">
-    <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://jobhub-livid.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 📊 PrepTrack — DSA Prep Tracker & Progress Visualizer
 
 **MongoDB · Express.js · React.js · Node.js · Tailwind CSS · Recharts · JWT**
@@ -173,6 +145,34 @@ A full-stack application for tracking DSA preparation, coding progress and perfo
     <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://prep-track-blue.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💼 JobHub — Full-Stack Job Portal & AI Candidate Matcher
+
+**Java · Spring Boot · Spring Security · React.js · MySQL · JWT · BCrypt**
+
+A full-stack recruitment platform with secure authentication and an automated candidate-job matching system.
+
+### ✨ Highlights
+
+- 🔐 JWT Authentication
+- 🔒 BCrypt Password Encryption
+- 🤖 Candidate-Job Matching
+- 📊 Skill Overlap Analysis
+- 🔎 Multi-Criteria Search
+- 📄 Application Tracking
+- 👥 Candidate & Recruiter Workflows
+- 🧪 REST API Development & Testing
+
+<p align="left">
+  <a href="https://github.com/nitishkpathak/jobhub">
+    <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://jobhub-livid.vercel.app">
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -225,11 +225,13 @@ I practice **Data Structures & Algorithms** to improve my programming fundamenta
 # 💡 What I Like Building
 
 ```text
-🔐 Secure Applications
+💻 Software Applications
+        ↓
+☕ Java & Spring Boot
         ↓
 🌐 REST APIs
         ↓
-☕ Java + Spring Boot
+🔐 Secure Authentication
         ↓
 🗄️ Database-driven Systems
         ↓
